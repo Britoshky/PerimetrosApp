@@ -5,7 +5,7 @@
 
 ## Características Principales
 - **Círculo:** Permite ingresar el radio para calcular el perímetro utilizando la fórmula:
-  \[ Perímetro = 2 \cdot \pi \cdot radio \]
+  \[ Perímetro = Perímetro = 2 × π × radio \]
 - **Triángulo:** Permite ingresar las longitudes de los tres lados para calcular el perímetro mediante:
   \[ Perímetro = ladoA + ladoB + ladoC \]
 - Interfaz desarrollada con Ionic Components para un diseño moderno y adaptable.
