@@ -1,0 +1,32 @@
+ion-card {
+    margin: 20px;
+    padding: 20px;
+  }
+  
+  .image-container {
+    display: flex;
+    justify-content: center;
+    margin: 15px 0;
+  }
+  
+  .circle-image {
+    max-width: 250px;
+    background-color: #ffeef2; /* Fondo rosado */
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  ion-button {
+    margin-top: 15px;
+  }
+  
+  ion-text {
+    display: block;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
